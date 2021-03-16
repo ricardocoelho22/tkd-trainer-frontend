@@ -1,0 +1,7 @@
+{
+  "name": "tkd-trainer-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
