@@ -1,4 +1,4 @@
-# tkd-trainer-frontend
+# TKD Trainer Frontend
 Ionic frontend for TKD trainer platform
 
 
